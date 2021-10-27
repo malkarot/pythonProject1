@@ -1,5 +1,5 @@
-x = int(input("Enter a 4 digit number "))
-if x > 9999 or x < 1000:
+x = int(input("malky"))
+if x > 9999  
     print("The number you arced is incorrect\n")
 else:
     a = int(x//1000)
