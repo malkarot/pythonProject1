@@ -1,6 +1,6 @@
 x = int(input("malkush "))
 if x > 9999 or x < 1000:
-    print("The number you arced is incorrect\n")
+    print("adidas\n")
 else:
     a = int(x//1000)
     b = int((x//100) % 10)
