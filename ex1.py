@@ -1,6 +1,6 @@
-x = int(input("malkush "))
+x = int(input("Enter 4 digit number\n "))
 if x > 9999 or x < 1000:
-    print("adidas\n")
+    print("The number is incorrect\n")
 else:
     a = int(x//1000)
     b = int((x//100) % 10)
